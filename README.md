@@ -40,6 +40,31 @@ The application uses a clean card-based light theme inspired by modern web desig
 - Pillow
 - Git and GitHub
 
+## Libraries to Install
+
+Open a terminal in the project folder and install the required packages with:
+
+```bash
+pip install PyQt5 opencv-python numpy pillow
+```
+
+If you prefer to install them one by one:
+
+```bash
+pip install PyQt5
+pip install opencv-python
+pip install numpy
+pip install pillow
+```
+
+> [!WARNING]
+> Make sure you have Python 3.8 or newer installed. It is recommended to use a virtual environment:
+> ```bash
+> python -m venv .venv
+> .venv\Scripts\activate
+> pip install PyQt5 opencv-python numpy pillow
+> ```
+
 ## Features
 
 - Load PNG, JPG, and BMP images
@@ -71,6 +96,8 @@ PyPicturesGarage/
 pip install -r requirements.txt
 ```
 
+If you do not have a `requirements.txt`, use the manual command shown in the Libraries to Install section.
+
 ## Run
 
 ```bash
@@ -95,3 +122,17 @@ PyPicturesGarage is developed as a personal project exploring the practical use 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Libraries to Install
+
+| Library | Purpose |
+|---|---|
+| **PyQt5** | Desktop GUI framework |
+| **opencv-python** | Image processing and artistic effects |
+| **numpy** | Numerical arrays used by OpenCV |
+| **pillow** | Optional image format support |
+
+One-line install:
+
+```bash
+pip install PyQt5 opencv-python numpy pillow
