@@ -27,7 +27,6 @@ The application uses a clean card-based light theme inspired by modern web desig
   <img src="https://github.com/user-attachments/assets/e7443f56-2ff7-4ffa-9a51-48483a060b30" width="24%" style="border-radius: 12px;" />
   <img src="https://github.com/user-attachments/assets/5ed82e66-e378-4de3-ae27-93c2ec98d82b" width="24%" style="border-radius: 12px;" />
   <img src="https://github.com/user-attachments/assets/b7121d2a-a558-4755-941b-a897c6eada15" width="24%" style="border-radius: 12px;" />
-  <img src="https://github.com/user-attachments/assets/7877083d-1093-45dd-a87b-f1552e5733a0" width="24%" style="border-radius: 12px;" />
   <img src="https://github.com/user-attachments/assets/a609479e-d6ff-43c4-838b-e4e62c21d8a8" width="24%" style="border-radius: 12px;" />
 </p>
 
