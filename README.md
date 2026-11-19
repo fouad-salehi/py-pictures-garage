@@ -88,14 +88,17 @@ pip install pillow
 
 ```
 PyPicturesGarage/
-├── main.py
-├── effects.py
-├── theme.py
-├── splash.py
-├── home.py
-├── editor.py
-├── crop_label.py
-└── requirements.txt
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── source/
+    ├── main.py
+    ├── effects.py
+    ├── theme.py
+    ├── splash.py
+    ├── home.py
+    ├── editor.py
+    └── crop_label.py
 ```
 
 ## Installation
@@ -109,7 +112,7 @@ If you do not have a `requirements.txt`, use the manual command shown in the Lib
 ## Run
 
 ```bash
-python main.py
+python source/main.py
 ```
 
 ## Project
