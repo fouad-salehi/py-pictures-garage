@@ -30,6 +30,15 @@ The application uses a clean card-based light theme inspired by modern web desig
   <img src="https://github.com/user-attachments/assets/a609479e-d6ff-43c4-838b-e4e62c21d8a8" width="24%" style="border-radius: 12px;" />
 </p>
 
+## Download
+
+> [!TIP]
+> **Ready-to-run executable:**
+> [Download PyPicturesGarage.exe](https://github.com/fouad-salehi/py-pictures-garage/releases/latest)
+>
+> No Python installation required. Just download, run, and start editing.
+> If you prefer to build from source, follow the installation steps below.
+
 ## Technologies
 
 - Python 3
