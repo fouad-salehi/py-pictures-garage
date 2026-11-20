@@ -1,4 +1,4 @@
-# PyPicturesGarage
+# py-pictures-garage
 
 ![Platform](https://img.shields.io/badge/platform-Desktop-blue?style=for-the-badge)
 ![Language](https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
